@@ -14,7 +14,7 @@ body{
 }
 {
   color: #000000;
-  font: Humanist;
+  text-align: Humanist;
 }
 .button-container {
   display: flex;
